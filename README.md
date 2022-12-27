@@ -1,2 +1,2 @@
-# Numpy-Tutorial
+# Numpy
 Learning Numpy from scretch
